@@ -1,0 +1,83 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+.h1 {
+  font-weight: bold;
+  font-size: 45px;
+  color: #000000;
+}
+
+.h3 {
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+}
+
+.h3c {
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+.p {
+  font-weight: normal;
+  font-size: 14px;
+  color: #a8a8a8;
+}
+
+.ps {
+  font-weight: normal;
+  font-size: 16px;
+  color: #a8a8a8;
+}
+
+.WEB_site {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+}
+
+.about_me_profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+}
+
+.about_me {
+  margin: 102px 170px 20px 88px;
+}
+
+.projects {
+  margin: 20px 257px 21px 88px;
+}
+
+.work_experiance {
+  margin: 30px 217px 8px 88px;
+}
+
+.education {
+  margin: 35px 415px 107px 88px;
+}
+
+.sidebar {
+  color: #fff;
+  background-color: #1e2939;
+}
+
+.img {
+  margin-top: 40px;
+}
+
+.contacts-tech_skills-soft_skills {
+  margin: 51px auto 47px 40px;
+  font-size: 14px;
+}
